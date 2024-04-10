@@ -338,67 +338,6 @@ As we continue to evolve Comicify, our goal remains clear: to revolutionize the 
     </a>
 </p>
 
-## 🤖 Join Our Community
-
-<p align="center">
-  <img src="https://github.com/SrikarVamsi/dump/blob/main/amrita_logo.png" alt="Amrita Vishwa Vidyapeetham Logo">
-</p>
-
-Meet the talented minds behind Comic-ify, all hailing from Amrita Vishwa Vidyapeetham's AI branch:
-
-**<p align="center">Surya</p>**
-   <p align="center">
-     <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/surya.jpg" alt="Surya's Picture" width="150">
-   </p>
-   <p align="center">
-     <a href="https://www.linkedin.com/in/surya-santhosh-64a08b297/">
-       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-     </a>
-     <a href="https://www.instagram.com/ss.surya.ss/">
-       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
-     </a>
-   </p>
-
-**<p align="center">Amrit</p>**
-   <p align="center">
-     <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/amrith.jpg" alt="Amrit's Picture" width="150">
-   </p>
-   <p align="center">
-     <a href="https://www.linkedin.com/in/macromrit/">
-       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-     </a>
-     <a href="https://www.instagram.com/amritsubramanian.c/">
-       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
-     </a>
-   </p>
-
-**<p align="center">Navneet</p>**
-   <p align="center">
-     <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/me.jpg" alt="Navneet's Picture" width="150">
-   </p>
-   <p align="center">
-     <a href="https://www.linkedin.com/in/navneet-krishna-669000279/">
-       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-     </a>
-     <a href="https://www.instagram.com/krri__shh/">
-       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
-     </a>
-   </p>
-
-**<p align="center">Srikar</p>**
-   <p align="center">
-     <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/srikar.jpg" alt="Srikar's Picture" width="150">
-   </p>
-   <p align="center">
-     <a href="https://www.linkedin.com/in/kottakki-srikar-vamsi/">
-       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-     </a>
-     <a href="https://www.instagram.com/srikarvamsi1230/">
-       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
-     </a>
-   </p>
-
-
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑
